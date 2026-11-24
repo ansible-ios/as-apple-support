@@ -1,3 +1,12 @@
+# as-apple-support
+
+Ansible Messenger — инструменты поддержки платформ Apple в Bazel.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [bazelbuild/apple_support](https://github.com/bazelbuild/apple_support), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # Apple Support for [Bazel](https://bazel.build)
 
 This repository contains the [Apple CC toolchain](#toolchain-setup),
